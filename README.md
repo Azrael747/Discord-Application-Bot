@@ -3,9 +3,9 @@ A simple discord JS bot (source code), mainly focused on easy applications witho
 
 # SETUP
 ## Tidbits:
-`Get your bot token using Google/YouTube`
+`Get your bot token using Discord Developer portal`
 
-`Go to developer mode in Discord to copy ids`
+`Go to developer mode in Discord to copy the correct channel id`
 ## Powering the bot:
 > First,
 
@@ -57,4 +57,4 @@ And it should look like this
 I can make it much more complex by added database and stuff but, we'll go for simple one right now....
 
 # Credits
-`Coded by ZariZaryab (Gazarino)`
+`Code base by ZariZaryab modifacations FloydGreen aka Evan Chaytor
