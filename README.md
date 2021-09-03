@@ -57,4 +57,4 @@ And it should look like this
 I can make it much more complex by added database and stuff but, we'll go for simple one right now....
 
 # Credits
-`Code base by ZariZaryab modifacations FloydGreen aka Evan Chaytor
+`Code base by ZariZaryab modifacations FloydGreen
